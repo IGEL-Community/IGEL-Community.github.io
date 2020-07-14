@@ -2,14 +2,14 @@
 
 ## Summary of steps to create custom partitions
 
-•	Setup lab environment
-•	Download Linux package
-•	Unpack the package on a Linux system
-•	Create the initialization script
-•	Compress the custom partition contents
-•	Write the \*.inf Metadata file
-•	Upload the files to the UMS
-•	Create a UMS profile for the custom partition
+•	Setup lab environment <br />
+•	Download Linux package <br />
+•	Unpack the package on a Linux system <br />
+•	Create the initialization script <br />
+•	Compress the custom partition contents <br />
+•	Write the \*.inf Metadata file <br />
+•	Upload the files to the UMS <br />
+•	Create a UMS profile for the custom partition <br />
 •	Assign the profile, check for missing libraries, and test the application
 
 
